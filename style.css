@@ -388,14 +388,6 @@ padding-bottom:70px!important;
 	font-size:11px;
 }
 @media(max-width:768px){
-	.icon{
-		margin-left:130px;
-	}
-	
-	.button{
-		
-		margin-left:100px;
-	}
 	.icon li{
 		margin:0 auto;
 	}
